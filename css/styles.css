@@ -1282,3 +1282,22 @@ a:hover.back-to-top {
 	/* end of extra pages */
 }
 /* end of min-width 1200px */
+/* Style pour les icônes sociales */
+.social-icons-container {
+    margin-bottom: 30px;
+}
+
+.social-icon {
+    color: #3f78e0;
+    margin: 0 15px;
+    transition: all 0.3s ease;
+}
+
+.social-icon:hover {
+    color: #2a5db0;
+    transform: translateY(-3px);
+}
+
+.social-icon i {
+    vertical-align: middle;
+}
