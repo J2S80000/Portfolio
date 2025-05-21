@@ -1301,3 +1301,10 @@ a:hover.back-to-top {
 .social-icon i {
     vertical-align: middle;
 }
+/* Style pour l'overlay plein écran */
+.image-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+
+}
